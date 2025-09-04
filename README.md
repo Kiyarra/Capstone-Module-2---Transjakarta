@@ -7,12 +7,9 @@ Namun, ketersediaan data transaksi publik Transjakarta masih terbatas. Data terb
 Simulasi ini tidak hanya berfungsi sebagai sarana uji coba kerangka analisis data, tetapi juga sebagai upaya awal untuk memahami bagaimana data transaksi dapat diolah menjadi informasi strategis. Melalui analisis data semacam ini, berbagai pihak, baik peneliti, akademisi, maupun pengambil kebijakan, dapat mengeksplorasi kemungkinan peningkatan kualitas layanan transportasi publik di Jakarta.
 
 **PERNYATAAN MASALAH**
-
-Transjakarta melayani jutaan pengguna setiap bulan, tetapi pola penggunaan penumpang sering berbeda antar koridor, kelompok usia, gender, dan hari (weekday vs weekend). Tanpa pemahaman yang jelas tentang siapa pengguna utama, kapan mereka bepergian, dan bagaimana pola ini berbeda antar segmen, Transjakarta berisiko:
-
-1. Menyediakan layanan yang tidak sesuai dengan kebutuhan nyata penumpang.
-2. Mengalami ketidakseimbangan supply-demand (bus terlalu padat di jam tertentu, kosong di jam lain).
-3. Tidak optimal dalam mendukung segmen spesifik (remaja, anak, lansia) yang punya kebutuhan berbeda.
+- Tingginya penggunaan TransJakarta di jam sibuk menyebabkan antrean dan kepadatan.
+- Perbedaan pola penggunaan berdasarkan gender, usia, waktu, dan koridor belum dioptimalkan.
+- Media pembayaran masih belum sepenuhnya terintegrasi dengan kebutuhan pengguna muda.
 
 
 [DASHBOARD](https://public.tableau.com/shared/9M3YFBRY5?:display_count=n&:origin=viz_share_link)
